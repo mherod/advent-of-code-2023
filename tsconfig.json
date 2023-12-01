@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "moduleResolution": "NodeNext",
+        "allowSyntheticDefaultImports": true,
+        "allowImportingTsExtensions": true,
+        "emitDeclarationOnly": true,
+        "declaration": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "module": "NodeNext",
+        "types": [
+            "bun-types",
+            "jest"
+        ]
+    }
+}
